@@ -46,6 +46,7 @@ This application is designed as a simple and user-friendly database management t
 ## Screenshots
 
 -   **Login Screen:**
+  
     ![Screenshot 2025-01-29 001840](https://github.com/user-attachments/assets/0bdca968-1b96-4bbc-bdef-8048dadfdffa)
 
 
