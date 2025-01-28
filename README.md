@@ -10,8 +10,7 @@ This project is a JavaFX application that allows users to connect to MySQL datab
 -   [Installation](#installation)
 -   [Usage](#usage)
 -   [Technical Details](#technical-details)
--   [Contributing](#contributing)
--   [License](#license)
+
 
 ## Introduction
 
